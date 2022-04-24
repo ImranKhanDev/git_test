@@ -1,0 +1,5 @@
+notun branch khular jonno 
+aga check kkorte hobe 
+cmd : git checkout <ekhane oi branch er nam lkhe diteh hobe >
+r seta ke github e pathanor jonno 
+cmd : git push --set-upstream origin < branch name>
