@@ -15,6 +15,7 @@ const Functional = () => {
       </div>
       <h1>this is Functional components</h1>
       {/* // eslint-disable-next-line no-sequences */}
+      <b>i love you when you call me Muhammad.</b>
       <button onClick={() => changeMessage()}>msg</button>
     </div>
   );
