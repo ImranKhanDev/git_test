@@ -1,0 +1,24 @@
+notun branch khular jonno 
+aga check kkorte hobe 
+cmd : git checkout <ekhane oi branch er nam lkhe diteh hobe >
+r seta ke github e pathanor jonno 
+cmd : git push --set-upstream origin < branch name>
+
+uporer cmd dile seta github e new branch create hobe.
+
+ekhon 2ta branch holo akta aga theke arekta notun holo, akhon jodi 2nd branch kono o kichu change kora hoi seta kintu MAIN/MASTER branch e jabe na er jonno pull request korte hobe, pull req korar jonno GITHUB er PULL REQ option aceh + akta notification ashbe j kichukhon aga / koekd min aga notun branch theke akta pull request kora hoiche, tarpor bam pasher master branch er dropdown theke notun branch selech korte hobe, 
+-->click new pull req
+-->compare base master er sateh compare kora hobe notun otar sateh
+--> compare base mater <-notun branch select krote hobe
+select korar por Create Pull Request korte hobe.
+ chaile commit change kora jabe, niche abar CREATE PULL REQ click korte hobe.
+click korle refresh hoie Merge pull request akta option ashbe ota click kore confirm korte hobe tahle hoie jabe.
+
+### GIT PULL ###
+Er mane holo ak branch theke onno branch e code niye asha , suppose
+master branch theke (220425-imran) ei branch code niye ashbo tahle 2ta kaj korte hobe
+1.aga check korte hobe akhon kon branch e achi jodi 3rd onno kono branch e thaki tahle aga checkout diye (220425-imran) ei branch e ashte hobe
+cmd : git checkout (220425-imran)
+tarpor 
+2.git pull origin master
+eta dilei master branch er code (220425-imran) ei branch e cchole ashbe.
