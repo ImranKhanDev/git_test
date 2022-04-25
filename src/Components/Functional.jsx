@@ -13,7 +13,7 @@ const Functional = () => {
         <input type="text" className="search" placeholder="enter your search key" />
         <button className="btn"><BsSearch/></button>
       </div>
-      <h1>i love to work with GITHUBBB & git </h1>
+      <h1>i love to work with GITHUBBB & git  <br /> i love to cod3 </h1>
       <h1>this is Functional components</h1>
       {/* // eslint-disable-next-line no-sequences */}
       <button onClick={() => changeMessage()}>msg</button>
