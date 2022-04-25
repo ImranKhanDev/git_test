@@ -1,3 +1,5 @@
+Lesson one : git & github
+
 notun branch khular jonno 
 aga check kkorte hobe 
 cmd : git checkout <ekhane oi branch er nam lkhe diteh hobe >
@@ -22,3 +24,16 @@ cmd : git checkout (220425-imran)
 tarpor 
 2.git pull origin master
 eta dilei master branch er code (220425-imran) ei branch e cchole ashbe.
+
+2. abar suppose MASTER branch e kichu update kora holo shei khetre ager moto 
+git add .
+git commit -m "git init "
+git push 
+---> ei khetre push korle Error Aashbe
+er jonno aga 
+git pull origin master 
+ei cmd diyei tarpor
+git push diteh hobe.
+eta dewar por 
+git push dile - push hoie jabe
+ekhon (220425-imran) ei branch theke pull korteo parbe , pull korle MASTER branch er update file (220425-imran) ei branch paye jabe/
